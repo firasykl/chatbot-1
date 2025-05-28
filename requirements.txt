@@ -1,2 +1,5 @@
 streamlit
+pymysql
+pandas
 openai
+requests
